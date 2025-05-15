@@ -5,6 +5,6 @@ public class Main {
 
         System.out.printf("Hello and welcome Git!");
 
-
+        System.out.println("I learn in Netology");
     }
 }
